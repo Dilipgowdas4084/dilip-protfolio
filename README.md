@@ -1,20 +1,32 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Dilip Gowda S — Personal Portfolio
 
-# Run and deploy your AI Studio app
+A personal portfolio showcasing my projects in Cybersecurity, AI Engineering, and Full Stack Development.
 
-This contains everything you need to run your app locally.
+## Stack
 
-View your app in AI Studio: https://ai.studio/apps/9ba06018-c2d7-4470-95d0-d13617461d81
+- **React** + **TypeScript**
+- **Vite**
+- **Tailwind CSS v4**
+- **Framer Motion**
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
-
+**Prerequisites:** Node.js
 
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+   ```bash
+   npm install
+   ```
+
+2. Start the dev server:
+   ```bash
+   npm run dev
+   ```
+
+3. Open [http://localhost:5173](http://localhost:5173)
+
+## Contact
+
+- **Email:** gowdadilip11942@gmail.com
+- **GitHub:** [Dilipgowdas4084](https://github.com/Dilipgowdas4084)
+- **LinkedIn:** [dilip-gowda-s](https://www.linkedin.com/in/dilip-gowda-s-191751322/)
