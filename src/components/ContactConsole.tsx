@@ -433,7 +433,7 @@ export default function ContactConsole({ isDarkMode }: ContactConsoleProps) {
           {/* Social grid */}
           <div className="grid grid-cols-2 gap-4">
             {[
-            { icon: FileText, label: 'Resume', sub: 'View / Download PDF', href: '/dilip-resume.pdf', color: '#6366f1' as string },
+            { icon: FileText, label: 'Resume', sub: 'View / Download PDF', href: '/Dilip Gowda S - Resume.pdf', color: '#6366f1' as string },
             { icon: Github, label: 'GitHub', sub: 'Source Repos', href: 'https://github.com/Dilipgowdas4084', color: (isDarkMode ? '#e2e8f0' : '#1a1a2e') as string },
             { icon: Linkedin, label: 'LinkedIn', sub: 'Network', href: 'https://www.linkedin.com/in/dilip-gowda-s-191751322/', color: '#0ea5e9' as string },
             { icon: Mail, label: 'Gmail', sub: 'gowdadilip11942@gmail.com', href: 'mailto:gowdadilip11942@gmail.com', color: '#34d399' as string },
